@@ -1,0 +1,9 @@
+{
+  "name": "usleep.h",
+  "version": "0.0.1",
+  "repo": "jwerle/usleep.h",
+  "description": "usleep implementation using poll() or select()",
+  "keywords": ["usleep"],
+  "license": "MIT",
+  "src": ["usleep.h"]
+}
