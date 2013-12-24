@@ -1,6 +1,5 @@
-
-#ifndef __USLEEP_H__
-#define __USLEEP_H__ 1
+#ifndef USLEEP_H
+#define USLEEP_H 1
 
 #ifdef USE_POLL
 #include <poll.h>
